@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cpu_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="cpu_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="180038fs"></ZoomStartTime>
+      <ZoomEndTime time="199865fs"></ZoomEndTime>
+      <Cursor1Time time="200000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="152"></NameColumnWidth>
+      <ValueColumnWidth column_width="366"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/cpu_testbench/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/instr1" type="array">
+      <obj_property name="ElementShortName">instr1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instr1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/rd1" type="array">
+      <obj_property name="ElementShortName">rd1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd1[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/rd2" type="array">
+      <obj_property name="ElementShortName">rd2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd2[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/wre" type="logic">
+      <obj_property name="ElementShortName">wre</obj_property>
+      <obj_property name="ObjectShortName">wre</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/rotatedd" type="array">
+      <obj_property name="ElementShortName">rotatedd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rotatedd[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/inflags" type="array">
+      <obj_property name="ElementShortName">inflags[3:0]</obj_property>
+      <obj_property name="ObjectShortName">inflags[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/flags" type="array">
+      <obj_property name="ElementShortName">flags[3:0]</obj_property>
+      <obj_property name="ObjectShortName">flags[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/if1/counter" type="array">
+      <obj_property name="ElementShortName">counter[15:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testbench/cp/rf1/reg_file" type="array">
+      <obj_property name="ElementShortName">reg_file[0:15][31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_file[0:15][31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sim_1/new/cpu_testbench.vhd,1612979980,vhdl,,,,cpu_testbench,,,,,,,,
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sources_1/new/ALU.vhd,1612890231,vhdl,,,,alu,,,,,,,,
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sources_1/new/cpu.vhd,1612979703,vhdl,,,,cpu,,,,,,,,
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sources_1/new/dataMem.vhd,1610368532,vhdl,,,,mem,,,,,,,,
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sources_1/new/instrFetch.vhd,1613087091,vhdl,,,,instr_fetch,,,,,,,,
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sources_1/new/regFile.vhd,1610368532,vhdl,,,,register_file,,,,,,,,
+D:/School stuff/An3/Sem1/SCS/Labs/cpu/cpu.srcs/sources_1/new/rotateUnit.vhd,1610368532,vhdl,,,,rotateunit,,,,,,,,

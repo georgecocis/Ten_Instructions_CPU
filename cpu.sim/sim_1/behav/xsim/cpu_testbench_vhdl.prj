@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cpu.srcs/sources_1/new/ALU.vhd" \
+"../../../../cpu.srcs/sources_1/new/cpu.vhd" \
+"../../../../cpu.srcs/sources_1/new/dataMem.vhd" \
+"../../../../cpu.srcs/sources_1/new/instrFetch.vhd" \
+"../../../../cpu.srcs/sources_1/new/regFile.vhd" \
+"../../../../cpu.srcs/sources_1/new/rotateUnit.vhd" \
+"../../../../cpu.srcs/sim_1/new/cpu_testbench.vhd" \
+
+# Do not sort compile order
+nosort
